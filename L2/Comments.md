@@ -1,4 +1,4 @@
-# Q1
+# Understanding Python Comments
 
 
 ```python
@@ -8,7 +8,7 @@ print("I am a Python Guru")
 # print() is used to print the message on console
 ```
 
-# Q2
+# Problem Solving in Comments
 
 
 ```python
@@ -27,7 +27,7 @@ print("11")
 print("13")
 ```
 
-# Q3
+# Understanding Docstring in Python
 
 
 ```python
