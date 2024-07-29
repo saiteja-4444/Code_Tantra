@@ -50,9 +50,7 @@ print(language)
 
 ```python
 str1 = input("Enter a value: ")
-
 # Assign str1 to three objects a, b and c
-
 print("Value of a:",str1) # Print a
 print("Value of b:",str1) # Print b
 print("Value of c:",str1) # Print c
