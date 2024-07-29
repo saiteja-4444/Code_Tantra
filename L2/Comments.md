@@ -1,11 +1,11 @@
-# Understanding Python Comments
+# 2.1.1. Understanding Python Comments
 
 
 ```python
 print("I am a Python Guru")
 ```
 
-# Problem Solving in Comments
+# 2.1.2. Problem Solving in Comments
 
 
 ```python
@@ -25,7 +25,7 @@ print("13")
 
 ```
 
-# Understanding Docstring in Python
+# 2.1.3. Understanding Docstring in Python
 
 
 ```python
