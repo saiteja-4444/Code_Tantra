@@ -1,4 +1,4 @@
-# Q1
+# What is a computer programming language?
 ◻ Only those who study Computer Science Engineering or a related subject in college can learn and write computer programs.
 
 ✅ The sequence of instructions (in the form of source code) written in a computer programming language is called a computer program.
@@ -8,7 +8,7 @@
 ◻ Computer Programming languages are very hard to learn.
 
 
-# Q2
+# 1.1.2. The genesis of Python
 ◻ Python programming language was developed in the year 1999.
 
 ◻ Python is a middle-level programming language.
