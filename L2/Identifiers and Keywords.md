@@ -13,7 +13,7 @@
 # Understanding Python Keywords
 
 
-```python
+```
 ✅ Python version 3.5 has 33 keywords.
 
 ◻ true is a valid keyword in Python.
