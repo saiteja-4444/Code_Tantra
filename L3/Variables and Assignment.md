@@ -39,12 +39,10 @@ print("Miles:",miles)
 
 
 ```python
-q=999
-w=24.789
-e="Python Interpreter"
-print(q)
-print(w)
-print(e)
+age,length,language =25,24.789,"Python"# Assign the values to the variables
+print(age)
+print(length)
+print(language)
 ```
 
 # 3.1.5. Chained Assignment
