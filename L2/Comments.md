@@ -2,10 +2,7 @@
 
 
 ```python
-# This is my first program
 print("I am a Python Guru")
-# print("Python is not cool")
-# print() is used to print the message on console
 ```
 
 # Problem Solving in Comments
@@ -17,14 +14,15 @@ print("1")
 print("3")
 # print("4")
 print("5")
-# print("6")
+#print("6")
 print("7")
-# print("8")
+#print("8")
 print("9")
 # print("10")
 print("11")
 # print("12")
 print("13")
+
 ```
 
 # Understanding Docstring in Python
