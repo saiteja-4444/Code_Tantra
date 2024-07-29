@@ -16,12 +16,44 @@
 ✅ The Python programming language evolved through many versions.
 
 ◻ Python language was created by Sundar Pichai.
-# Q3
+# 1.1.3. Python Program Life Cycle
 ◻ Python programs can be executed only by writing them into files.
 
 ✅ Python source code is written and saved in a file with .py extension.
 
 ◻ Runtime errors are like grammatical errors in English.
+# 1.1.4. Difference between Compiler and Interpreter
+
+◻ In Python intermediate code is generated.
+
+
+✅ Compiler takes entire block of code as a single unit to check and identify the errors in program.
+
+
+◻ Memory allocation is more in Python due to creation of Object code at the time of source code compilation.
+# 1.1.5. High level language categories
+
+◻ Concurrent Programming is technique that provides execution of operations sequentially.
+
+
+
+✅ XML is an example of markup programming language.
+
+
+
+✅ Scripting languages are used to automate frequently executing tasks.
+
+
+
+◻ A compiled programming language is one which interprets and executes statement before the next statement is interpreted.
+
+
+
+✅ Functional programming language uses conditional expressions and recursion to perform computation.
+
+
+
+
 # Q4 
 
 
