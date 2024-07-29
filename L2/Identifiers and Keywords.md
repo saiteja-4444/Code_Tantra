@@ -1,4 +1,4 @@
-# Q1
+# Understanding Identifiers in Python
 
 ✅ Identifiers are used for identifying entities in a program.
 
@@ -10,7 +10,7 @@
 
 ✅ Identifiers can be of any length.
 
-# Q2
+# Understanding Python Keywords
 
 
 ```python
@@ -25,7 +25,7 @@
 ◻ A programmer can easily modify the keywords.
 ```
 
-# Q3
+# Fill in the missing code
 
 
 ```python
