@@ -54,35 +54,36 @@
 
 
 
-# Q4 
+# 1.1.6. Identify the Error
 
 
 ```python
 print("Python is Easy")
 ```
 
-# Q5
+# 1.1.7. Identify the Error
 
 
 ```python
 print("Python is not Typhoon")
 ```
 
-# Q6
+# 1.1.8. Other usages of print function
 
 
 ```python
-print("Abracadabra"*7)
+n = int(input())
+print("Abracadabra"*n)
 ```
 
-# Q7
+# 1.1.9. Fill in the missing code
 
 
 ```python
 print("where", "the" "re", "is", "a", "will,", "there", "is", "a", "way")
 ```
 
-# Q8
+# 1.1.10. Features of Python
 ✅ Python is an interpreted language.
 
 ✅ A Python program can execute C and C++ programs also.
