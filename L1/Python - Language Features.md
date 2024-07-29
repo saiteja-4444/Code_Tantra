@@ -1,4 +1,4 @@
-# What is a computer programming language?
+# 1.1.1. What is a computer programming language?
 ◻ Only those who study Computer Science Engineering or a related subject in college can learn and write computer programs.
 
 ✅ The sequence of instructions (in the form of source code) written in a computer programming language is called a computer program.
