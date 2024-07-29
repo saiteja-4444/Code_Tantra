@@ -1,4 +1,4 @@
-# Q1
+# Understanding Variables
 
 
 ```python
@@ -7,7 +7,7 @@ length=18
 print(snake, "can grow up to a length of", length, "feet")
 ```
 
-# Q2
+# Assigning Different Values to Variables
 
 
 ```python
@@ -24,7 +24,7 @@ print(value2)
 print(value3)
 ```
 
-# Q3
+# Assignment of Variables
 
 
 ```python
@@ -35,7 +35,7 @@ print("Miles:",miles)
 
 ```
 
-# Q4
+# Understanding Multiple Assignment
 
 
 ```python
@@ -47,7 +47,7 @@ print(w)
 print(e)
 ```
 
-# Q5
+# Chained Assignment
 
 
 ```python
