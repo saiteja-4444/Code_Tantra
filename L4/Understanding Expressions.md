@@ -41,8 +41,6 @@ print(number+5)
 
 ◻ x *= y means x * x = y
 
-✅ In Python, Statements are executed by Interpreter.
-
 ✅ We can perform assignment with '=' operator.
 
-✅ a -= b and a = a-b are gives same r
+✅ a -= b and a = a-b are gives same result.
