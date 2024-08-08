@@ -1,21 +1,32 @@
 # Dictionaries
 
 
-## Q1
+## 7.1.1. Introduction to Dictionary
 
 
-```✅ Dictionary is a Python data type to store multiple values.
+```
+
+✅ Dictionary is a Python data type to store multiple values.
+
+
 
 ◻ We use parenthesis () to define a dictionary.
 
+
+
 ◻ In dictionary we represent an element in the {key-value} format.
+
+
 
 ✅ Keys of the dictionary cannot be changed.
 
+
+
 ◻ dictionary() function is used to create an empty dictionary.
+
 ```
 
-## Q2
+## 7.1.2. Understanding Dictionary
 
 
 ```python
@@ -25,7 +36,7 @@ print(mydict["branch"])
 print(mydict["place"])
 ```
 
-## Q3
+## 7.1.3. Accessing Elements of Dictionary
 
 
 ```python
