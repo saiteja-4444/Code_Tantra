@@ -1,4 +1,4 @@
-# Q1
+# 4.1.1. Understanding Expressions
 
 
 ```python
@@ -11,7 +11,7 @@ string2 = "River"
 print(string1+string2)
 ```
 
-# Q2
+# 4.1.2. Understanding Statements - Print statements
 
 ✅ In Python, Statements are executed by Interpreter.
 
@@ -23,18 +23,21 @@ print(string1+string2)
 
 ✅ a = b + a * b is a valid statement in Python.
 
-# Q3
 
+
+# 4.1.3. Types of Assignment Statements
 
 ```python
-a=("Welcome to Python")
-print(a)
-num=45
-num=num+5
-print(num)
+message ="Welcome to Python"
+# print message
+print(message)
+number = int(input())
+# add 5 to the number
+print(number+5)
+# print number
 ```
 
-# Q4
+# 4.1.4. Augmented Assignment Statement
 
 ◻ x *= y means x * x = y
 
