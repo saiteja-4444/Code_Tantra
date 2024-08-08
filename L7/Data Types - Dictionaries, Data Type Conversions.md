@@ -8,19 +8,11 @@
 
 ✅ Dictionary is a Python data type to store multiple values.
 
-
-
 ◻ We use parenthesis () to define a dictionary.
-
-
 
 ◻ In dictionary we represent an element in the {key-value} format.
 
-
-
 ✅ Keys of the dictionary cannot be changed.
-
-
 
 ◻ dictionary() function is used to create an empty dictionary.
 
